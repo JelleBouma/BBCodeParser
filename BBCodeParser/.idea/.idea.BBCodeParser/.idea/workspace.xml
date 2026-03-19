@@ -2,29 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa7fef1e-eb3d-49dd-a41b-303c31b5955b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/BBCodeParser/Tags/Tag.cs" afterPath="$PROJECT_DIR$/BBCodeParser/Tags/Tag.cs" />
-      <change beforePath="$PROJECT_DIR$/BBCodeParser/bin/Release/BBCodeParser.dll" afterPath="$PROJECT_DIR$/BBCodeParser/bin/Release/BBCodeParser.dll" />
-      <change beforePath="$PROJECT_DIR$/BBCodeParser/bin/Release/BBCodeParser.pdb" afterPath="$PROJECT_DIR$/BBCodeParser/bin/Release/BBCodeParser.pdb" />
-      <change beforePath="$PROJECT_DIR$/BBCodeParser/obj/Release/BBCodeParser.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/BBCodeParser/obj/Release/BBCodeParser.csproj.FileListAbsolute.txt" />
-      <change beforePath="$PROJECT_DIR$/BBCodeParser/obj/Release/BBCodeParser.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/BBCodeParser/obj/Release/BBCodeParser.csprojResolveAssemblyReference.cache" />
-      <change beforePath="$PROJECT_DIR$/BBCodeParser/obj/Release/BBCodeParser.dll" afterPath="$PROJECT_DIR$/BBCodeParser/obj/Release/BBCodeParser.dll" />
-      <change beforePath="$PROJECT_DIR$/BBCodeParser/obj/Release/BBCodeParser.pdb" afterPath="$PROJECT_DIR$/BBCodeParser/obj/Release/BBCodeParser.pdb" />
-      <change beforePath="$PROJECT_DIR$/Testing/TestParse.cs" afterPath="$PROJECT_DIR$/Testing/TestParse.cs" />
-      <change beforePath="$PROJECT_DIR$/Testing/bin/Release/BBCodeParser.dll" afterPath="$PROJECT_DIR$/Testing/bin/Release/BBCodeParser.dll" />
-      <change beforePath="$PROJECT_DIR$/Testing/bin/Release/BBCodeParser.pdb" afterPath="$PROJECT_DIR$/Testing/bin/Release/BBCodeParser.pdb" />
-      <change beforePath="$PROJECT_DIR$/Testing/bin/Release/Testing.dll" afterPath="$PROJECT_DIR$/Testing/bin/Release/Testing.dll" />
-      <change beforePath="$PROJECT_DIR$/Testing/bin/Release/Testing.pdb" afterPath="$PROJECT_DIR$/Testing/bin/Release/Testing.pdb" />
-      <change beforePath="$PROJECT_DIR$/Testing/obj/Release/Testing.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/Testing/obj/Release/Testing.csproj.FileListAbsolute.txt" />
-      <change beforePath="$PROJECT_DIR$/Testing/obj/Release/Testing.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/Testing/obj/Release/Testing.csprojResolveAssemblyReference.cache" />
-      <change beforePath="$PROJECT_DIR$/Testing/obj/Release/Testing.dll" afterPath="$PROJECT_DIR$/Testing/obj/Release/Testing.dll" />
-      <change beforePath="$PROJECT_DIR$/Testing/obj/Release/Testing.pdb" afterPath="$PROJECT_DIR$/Testing/obj/Release/Testing.pdb" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BBCodeParser/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BBCodeParser/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BBCodeParser/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BBCodeParser/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BBCodeParser/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BBCodeParser/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBCodeParser/BBParser.cs.orig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBCodeParser/IReadingStrategy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBCodeParser/MatchingTag.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBCodeParser/TagResult.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBCodeParser/TagType.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBCodeParser/bin/Release/BBCodeParser.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBCodeParser/bin/Release/BBCodeParser.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBCodeParser/bin/Release/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBCodeParser/bin/Release/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBCodeParser/obj/Release/BBCodeParser.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBCodeParser/obj/Release/BBCodeParser.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBCodeParser/obj/Release/BBCodeParser.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBCodeParser/obj/Release/BBCodeParser.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBCodeParser/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBCodeParser/obj/Release/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBCodeParser/obj/Release/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBCodeParser/obj/Release/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/bin/Debug/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/bin/Release/BBCodeParser.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/bin/Release/BBCodeParser.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/bin/Release/Testing.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/bin/Release/Testing.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/bin/Release/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/bin/Release/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/obj/Debug/Testing.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/obj/Release/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/obj/Release/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/obj/Release/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/obj/Release/Testing.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/obj/Release/Testing.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/obj/Release/Testing.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/obj/Release/Testing.pdb" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -110,18 +140,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JelleBouma"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JelleBouma/BBCodeParser",
+    "accountId": "41a7b9e9-93ae-4b05-a2b1-ea53bcd6c59b"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Testing/PerformanceTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BBCodeParser/BbParser.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BBCodeParser/IBBParser.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Testing/TestParse.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Testing/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BBCodeParser/Nodes/Node.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BBCodeParser/Nodes/TagNode.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BBCodeParser/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BBCodeParser/Tags/ListTag.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BBCodeParser/Tags/Tag.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BBCodeParser/Nodes/TagNode.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BBCodeParser/BbParser.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BBCodeParser/Tags/TagResult.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BBCodeParser/Nodes/Node.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BBCodeParser/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Testing/PerformanceTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Testing/TestParse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Testing/packages.config" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -142,13 +184,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="3BAr634N4arYAJ9aQje6KNMgesn" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -202,9 +248,20 @@
       <pane id="Scratches" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -223,81 +280,34 @@
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="PASS_PARENT_ENVS" value="1" />
-      <envs />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
       <option name="USE_MONO" value="0" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
       <option name="PROJECT_PATH" value="" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="None" />
       <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
     </configuration>
-    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
-      <option name="PROJECT_PATH" value="" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="USE_MONO" value="0" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
       <envs />
+      <method v="2" />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    <list>
+      <item itemvalue=".NET Project.Default" />
     </list>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -316,6 +326,7 @@
       <workItem from="1517223109034" duration="50000" />
       <workItem from="1519297892190" duration="1289000" />
       <workItem from="1520949104399" duration="531000" />
+      <workItem from="1773942539397" duration="796000" />
     </task>
     <task id="LOCAL-00001" summary="Adjustments">
       <created>1520949210167</created>
@@ -324,7 +335,15 @@
       <option name="project" value="LOCAL" />
       <updated>1520949210167</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix undeclared variable build error">
+      <option name="closed" value="true" />
+      <created>1773943318054</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773943318054</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -368,20 +387,38 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Adjustments" />
     <MESSAGE value="Merge fix" />
     <MESSAGE value="Merge branch 'master' of https://github.com/quilin/BBCodeParser&#10;&#10;# Conflicts:&#10;#&#9;BBCodeParser/BBCodeParser/Tags/Tag.cs&#10;#&#9;BBCodeParser/Testing/TestParse.cs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/quilin/BBCodeParser&#10;&#10;# Conflicts:&#10;#&#9;BBCodeParser/BBCodeParser/Tags/Tag.cs&#10;#&#9;BBCodeParser/Testing/TestParse.cs" />
+    <MESSAGE value="fix undeclared variable build error" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix undeclared variable build error" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Testing/TestParse.cs">

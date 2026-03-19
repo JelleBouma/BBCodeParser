@@ -57,7 +57,7 @@ namespace BBCodeParser.Tags
 
         private string GetAttributeValueForHtml(string attributeValue)
         {
-            var attributeValueSecured = BbParser.AttributeSecuritySubstitutions.Aggregate(attributeValue,
+            var attributeValueSecured = BbParser.SecuritySubstitutions.Aggregate(attributeValue,
                 (input, substitute) => input.Replace(substitute.Key, substitute.Value));
 
             return Secure
